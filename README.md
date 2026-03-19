@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Kavishonline0@gmail.com**
 
-- ⚡ Fun fact **Call me as Jothi**
+- ⚡ Fun fact **Call me as KD**
 
 
 
