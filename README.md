@@ -47,10 +47,15 @@
       <a href="https://facebook.com/Kavish Dasanayake" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="30" />
       </a>
-    </td> 
+    </td>
     <td>
       <a href="https://instagram.com/Kavish Dasanayake" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30" />
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/Kavish Dasanayake" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
       </a>
     </td>
   </tr>
