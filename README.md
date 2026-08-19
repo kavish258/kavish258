@@ -5,11 +5,11 @@
 
 ## 👋 About Me
 
-- 🔭 I’m currently working on **Movie Ticket Booking System 🎬**
-- 🌱 I’m currently learning **Java, React & Full-Stack Web Development 🚀**
-- 🎓 I’m an IT student passionate about software development
+- 🔭 I’m currently working on **TechDefined - improving accessibility, SEO, security, performance, and Sanity-powered content in a Next.js website.**
+- 🌱 I’m currently learning ** Full-Stack Web Development 🚀**
+- 🎓 I’m an IIT student passionate about software development
 - 💡 I love building real-world web applications and solving problems
-- 💬 Ask me about **HTML, CSS, JavaScript, Java**
+- 💬 Ask me about **Anything**
 - 📫 How to reach me: **Kavishonline0@gmail.com**
 - ⚡ Fun fact: **People call me KD 😎**
 - 🎯 Goal: Become a skilled Full-Stack Developer and build impactful projects
